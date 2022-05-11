@@ -58,9 +58,10 @@ const aboutMe = {
 
 <h3>Henry Group Proyect</h3>
 <p>
-  <a><img src="https://github.com/tenhitokiri/tenhitokiri/blob/main/images/petStore/carrito.png"></a>
-  <a><img src="https://github.com/tenhitokiri/tenhitokiri/blob/main/images/petStore/reviews.png"></a>
-  <a><img src="https://github.com/tenhitokiri/tenhitokiri/blob/main/images/petStore/average.png"></a>
+  <a><img src="https://github.com/tenhitokiri/tenhitokiri/blob/main/images/henry-pf-1.png"></a>
+  <a><img src="https://github.com/tenhitokiri/tenhitokiri/blob/main/images/henry-pf-2.png"></a>
+  <a><img src="https://github.com/tenhitokiri/tenhitokiri/blob/main/images/henry-pf-3.png"></a>
+  <a><img src="https://github.com/tenhitokiri/tenhitokiri/blob/main/images/henry-pf-4.png"></a>
 </p>
 
 <h3>Henry Individual Proyect</h3>
@@ -75,7 +76,7 @@ const aboutMe = {
 <ul>
 <li>Implemented Virtual machines  on several clinics to improve remote assistance and updates (using VirtualBox).</li>
 
-<li>Created a web app to remotely reserve ORs and to payment list for the surgeons on  a clinic (using php and mysql) </li>
+<li>Created a web app to remotely reserve Operating Rooms and to payment list for the surgeons on  a clinic (using php and mysql) </li>
 
 <li>Updated an administrative system named AdaptaPro according to the client (Tornillos Julio, C.A.) to improve sales and inventory management (using mysql and C)</li>
 
