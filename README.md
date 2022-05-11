@@ -66,9 +66,11 @@ const aboutMe = {
 
 <h3>Henry Individual Proyect</h3>
 <p>
-  <a><img src="https://github.com/tenhitokiri/tenhitokiri/blob/main/images/pedidotopia/tabla.jpg"></a>
-  <a><img src="https://github.com/tenhitokiri/tenhitokiri/blob/main/images/pedidotopia/nuevoprod.png"></a>
-  <a><img src="https://github.com/tenhitokiri/tenhitokiri/blob/main/images/pedidotopia/imagen.png"></a>
+  <a><img src="https://github.com/tenhitokiri/tenhitokiri/blob/main/images/henry-pi-1.png"></a>
+  <a><img src="https://github.com/tenhitokiri/tenhitokiri/blob/main/images/henry-pi-2.png"></a>
+  <a><img src="https://github.com/tenhitokiri/tenhitokiri/blob/main/images/henry-pi-3.png"></a>
+  <a><img src="https://github.com/tenhitokiri/tenhitokiri/blob/main/images/henry-pi-4.png"></a>
+
 </p> 
 &nbsp;
 
