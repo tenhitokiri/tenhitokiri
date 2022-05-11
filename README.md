@@ -27,6 +27,12 @@ const aboutMe = {
          PHP: ["SlimPHP"],
          PYTHON: ["Flask"],
       },
+      SysAdmin: {
+         Containers: ["Docker", "Swarm", "Docker Compose", "Docker Registry", "Portainer"],
+         CI/CD: ["Gitlab CI", "GitLab Runners"],
+         Testing: ["Jest"],
+         Monitoring: ["Prometheus", "Graphana", "Traefik"],
+      },
       databases: ["MongoDB", "PostgreSQL", "MySQL", "MSSQL"],
    },
    currentOccupation: ["Student at Henry", "Student at Platzi", "Freelancer developer", "IT Consultant"],
@@ -54,9 +60,9 @@ const aboutMe = {
 
 &nbsp;
 
-## :pushpin: My proyects
+## :pushpin: My Projects
 
-<h3>Henry Group Proyect</h3>
+<h3>Henry Group Project</h3>
 <p>
   <a><img src="https://github.com/tenhitokiri/tenhitokiri/blob/main/images/henry-pf-1.png"></a>
   <a><img src="https://github.com/tenhitokiri/tenhitokiri/blob/main/images/henry-pf-2.png"></a>
@@ -64,7 +70,7 @@ const aboutMe = {
   <a><img src="https://github.com/tenhitokiri/tenhitokiri/blob/main/images/henry-pf-4.png"></a>
 </p>
 
-<h3>Henry Individual Proyect</h3>
+<h3>Henry Individual Project</h3>
 <p>
   <a><img src="https://github.com/tenhitokiri/tenhitokiri/blob/main/images/henry-pi-1.png"></a>
   <a><img src="https://github.com/tenhitokiri/tenhitokiri/blob/main/images/henry-pi-2.png"></a>
@@ -74,7 +80,7 @@ const aboutMe = {
 </p> 
 &nbsp;
 
-<h3>Prev proyects</h3>
+<h3>Prev projects</h3>
 <ul>
 <li>Implemented Virtual machines  on several clinics to improve remote assistance and updates (using VirtualBox).</li>
 
