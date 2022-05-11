@@ -4,8 +4,6 @@
 Full Stack Developer :heart: from Venezuela to :earth_americas:
 </h2>
 
-https://github.com/tenhitokiri/tenhitokiri/blob/main/images/avatar.png?raw=true
-
 &nbsp;&nbsp;
 ## :star: About Me:
 
