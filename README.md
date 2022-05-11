@@ -1,4 +1,4 @@
-![Hi, I'm Christian](https://github.com/tenhitokiri/tenhitokiri/blob/main/assets/hi.gif)
+![Hi, I'm Christian](https://github.com/tenhitokiri/tenhitokiri/blob/main/assets/hi-thk.gif)
 
 <h2 align="center">
 Full Stack Developer :heart: from Venezuela to :earth_americas:
@@ -16,18 +16,21 @@ Having over 20 years working in IT, I graduated in 2007 and loved my career even
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Java],
+   code: [Javascript, Typescript, HTML, CSS, PHP, PYTHON],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux"],
-         css: ["Bootstrap", "Material UI"]
+         js: ["React", "Redux", "Angular"],
+         css: ["Bootstrap", "Material UI", "Styled Components"]
       },
       backEnd: {
-         js: ["Node", "Express"]
+         js: ["Node", "Express"],
+         PHP: ["SlimPHP"],
+         PYTHON: ["Flask"],
       },
-      databases: ["MongoDB", "PostgreSQL"],
+      databases: ["MongoDB", "PostgreSQL", "MySQL", "MSSQL"],
    },
-   currentOccupation: ["Tech Instructor at Henry"],
+   currentOccupation: ["Student at Henry", "Student at Platzi", "Freelancer developer", "IT Consultant"],
+   currentlyLearning: ["NestJS", "Golang", "NextJS", "Java"],
 };
 ```
 ## :star: Languages and Tools:
@@ -55,11 +58,6 @@ const aboutMe = {
 
 <h3>Henry Group Proyect</h3>
 <p>
-  <a><img src="https://github.com/tenhitokiri/tenhitokiri/blob/main/images/petStore/home.png"></a>
-  <a><img src="https://github.com/tenhitokiri/tenhitokiri/blob/main/images/petStore/catalogo.png"></a>
-  <a><img src="https://github.com/tenhitokiri/tenhitokiri/blob/main/images/petStore/tablaordenes.png"></a>
-</p>
-<p>
   <a><img src="https://github.com/tenhitokiri/tenhitokiri/blob/main/images/petStore/carrito.png"></a>
   <a><img src="https://github.com/tenhitokiri/tenhitokiri/blob/main/images/petStore/reviews.png"></a>
   <a><img src="https://github.com/tenhitokiri/tenhitokiri/blob/main/images/petStore/average.png"></a>
@@ -73,28 +71,28 @@ const aboutMe = {
 </p> 
 &nbsp;
 
-<h3>Other systems</h3>
-<p>
-Implemented Virtual machines  on several clinics to improve remote assistance and updates (using VirtualBox).
+<h3>Prev proyects</h3>
+<ul>
+<li>Implemented Virtual machines  on several clinics to improve remote assistance and updates (using VirtualBox).</li>
 
-Created a web app to remotely reserve ORs and to payment list for the surgeons on  a clinic (using php and mysql) 
+<li>Created a web app to remotely reserve ORs and to payment list for the surgeons on  a clinic (using php and mysql) </li>
 
-Updated an administrative system named AdaptaPro according to the client (Tornillos Julio, C.A.) to improve sales and inventory management (using mysql and C)
+<li>Updated an administrative system named AdaptaPro according to the client (Tornillos Julio, C.A.) to improve sales and inventory management (using mysql and C)</li>
 
-Online Residential Management App: developed with php & MySQL. 
+<li>Online Residential Management App: developed with php & MySQL. </li>
 
-Web page for Nueva Prensa de Guayana & Nueva Prensa de Oriente: 2 newspapers near my living area, developed in PHP, Apache & MySql.
+<li>Web page for Nueva Prensa de Guayana & Nueva Prensa de Oriente: 2 newspapers near my living area, developed in PHP, Apache & MySql.</li>
 
-Classified ad system: for the same previous newspapers, developed in PHP, Apache, MySql & QuarkXpress.
+<li>Classified ad system: for the same previous newspapers, developed in PHP, Apache, MySql & QuarkXpress.</li>
 
-Settlement and seniority payment system: developed for Frigorificos Ordaz, S.A using PHP, Apache & MySql. 
+<li>Settlement and seniority payment system: developed for Frigorificos Ordaz, S.A using PHP, Apache & MySql. </li>
 
-Implemented  an inhouse developed administrative system for Hierros San Felix on Suse Linux Enterprise Desktop v11 using WINE.
+<li>Implemented  an inhouse developed administrative system for Hierros San Felix on Suse Linux Enterprise Desktop v11 using WINE.</li>
 
-Developed a system to automate a military (national guard) operation base using PHP, Apache & Sql Server, sadly couldn't implement it.
+<li>Developed a system to automate a military (national guard) operation base using PHP, Apache & Sql Server, sadly couldn't implement it.</li>
 
-Online College services app (Serlu): developed for my college (UNEG) using PHP, Apache & Sql Server. 
-</p>
+<li>Online College services app (Serlu): developed for my college (UNEG) using PHP, Apache & Sql Server. </li>
+</ul>
 
 ## :paperclip: How to reach me:
 <span >
